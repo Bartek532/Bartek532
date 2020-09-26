@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+# Find about me:
 
 - 🔭 I’m currently a student 🎓
 - 🌱 I’m currently learning Python 📚
@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything 🙋‍♂️
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100014067669589)
 - ⚡ Fun fact: I love chess ♟️
--->
