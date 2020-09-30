@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Find about me:
+### Find out about me:
 
 - 🔭 I’m currently a student 🎓
 - 🌱 I’m currently learning Python 📚
