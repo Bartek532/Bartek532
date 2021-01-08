@@ -3,7 +3,7 @@
 ### Find out about me:
 
 - 🔭 I’m currently a student 🎓
-- 🌱 I’m currently learning Python 📚
+- 🌱 I’m currently learning React.js 📚
 - 👯 I’m looking to collaborate on Vue.js 💼
 - 🤔 I’m looking for help with better coding 💪
 - 💬 Ask me about anything 🙋‍♂️
