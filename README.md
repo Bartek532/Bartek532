@@ -6,7 +6,7 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 
 ![Facebook Badge](https://img.shields.io/badge/-@BartoszZagrodzki-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white) [![Twitter Badge](https://img.shields.io/badge/-@Bartuninho-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Bartuninho)](https://twitter.com/Bartuninho) [![Mail Badge](https://img.shields.io/badge/-@bartoszzagrodzki-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/bartoszzagrodzki/) [![Mail Badge](https://img.shields.io/badge/-bartzagr-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bartzagr@gmail.com)
 
- <img align="right" alt="GIF" src="./coder.gif" width="400" height="400" />
+ <img align="right" alt="GIF" src="./coder.gif" width="370" height="370" />
 
 - ✍ You can find my projects here [portfolio](https://bartek532.github.io/portfolio)
 - 🔭 I’m currently a student 🎓
