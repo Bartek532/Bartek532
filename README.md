@@ -73,7 +73,6 @@ I'm very focused on performance in my applications. When I see a picture like th
 
 <br />
 <br />
-<br />
 
 ### 📊 Some stats about me:
 
