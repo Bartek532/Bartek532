@@ -69,7 +69,7 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 
 I'm very focused on performance in my applications. When I see a picture like this, I can say: "good job!" 😁
 
-<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" align="left" />
+<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" />
 
 <br />
 <br />
