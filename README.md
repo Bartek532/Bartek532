@@ -17,11 +17,11 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 - 💬 Ask me about anything 🙋‍♂️
 - ⚡ Fun fact: I love chess ♟️
 
-### Main Technologies:
+### ⚙️ Main Technologies:
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](https://developer.mozilla.org/docs/HTML/HTML5) [![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://sass-lang.com) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org) [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](https://vuejs.org) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org)
 
-#### Other Technologies:
+#### 🖨️ Other Technologies:
 
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -46,7 +46,7 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 <br />
 <br />
 
-#### Other tools that I use (every day?):
+#### 🔨 Other tools that I use (every day?):
 
 [<img align="left" alt="NPM" width="26px" src="https://cdn.auth0.com/blog/npm-package-development/logo.png" />](https://www.npmjs.com)
 
@@ -65,14 +65,17 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 <br />
 <br />
 
-### Performance:
+### 💨 Performance:
 
 I'm very focused on performance in my applications. When I see a picture like this, I can say: "good job!" 😁
 
-<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" align="center" width="100%"/>
+<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" align="left" />
 
 <br />
 <br />
-<br />
 
-<img align="left" alt="Bartosz's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek532&layout=compact&hide=html&theme=algolia  " />
+### 📊 Some stats about me:
+
+<img align="left" alt="Bartosz's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek532&layout=compact&hide=html&theme=algolia" />
+
+<img align="left" alt="Bartosz's stats" src="https://github-readme-stats.vercel.app/api?username=Bartek532&show_icons=true&theme=algolia" />
