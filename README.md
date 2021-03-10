@@ -71,8 +71,6 @@ I'm very focused on performance in my applications. When I see a picture like th
 
 <img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" />
 
-<br />
-<br />
 
 ### 📊 Some stats about me:
 
