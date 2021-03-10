@@ -64,6 +64,15 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 
 <br />
 <br />
+
+### Performance:
+
+I'm very focused on performance in my applications. When I see a picture like this, I can say: "good job!" 😁
+
+<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" align="center" width="100%"/>
+
+<br />
+<br />
 <br />
 
 <img align="left" alt="Bartosz's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek532&layout=compact&hide=html&theme=algolia  " />
