@@ -8,7 +8,7 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 
  <img align="right" alt="GIF" src="./coder.gif" width="370" height="370" />
 
-- ✍ You can find my projects in [portfolio](https://bartek532.github.io/portfolio) 🧑‍💼
+- ✍ You can find my projects in [portfolio](https://bartek532.github.io/portfolio) 📁
 - 🔭 I’m currently a student 🎓
 - 🌱 I’m currently learning Python 📚
 - 💻 Most used line of code: `git commit -m "Initial Commit"` ⌨️
