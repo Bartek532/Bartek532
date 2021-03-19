@@ -27,6 +27,8 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com)
 
+[<img align="left" alt="Next.js" width="26px" src="https://boringowl.io/wp-content/uploads/2020/03/next-js-framework-300x300.jpg" />](https://nextjs.org)
+
 [<img align="left" alt="GSAP" width="26px" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" />](https://greensock.com/gsap/)
 
 [<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com)
