@@ -56,7 +56,7 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 
 [<img align="left" alt="ESLint" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" />](https://eslint.org)
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://git-scm.com/downloads)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://hyper.is)
 
 [<img align="left" alt="Figma" width="26px" src="https://media-exp1.licdn.com/dms/image/C560BAQGvV_5x3UBMJA/company-logo_200_200/0/1571158216754?e=2159024400&v=beta&t=FNtl7xIQWKxcVVqON99w2TgHZ1coVC3kevZEHi0z6lI" />](https://www.figma.com)
 
