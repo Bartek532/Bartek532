@@ -31,6 +31,8 @@ I'm Bartosz Zagrodzki - a young Front End Web Developer. I spend most of my time
 
 [<img align="left" alt="GSAP" width="26px" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" />](https://greensock.com/gsap/)
 
+[<img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />](https://firebase.google.com)
+
 [<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com)
 
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org)
