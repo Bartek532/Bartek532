@@ -78,7 +78,11 @@ I'm very focused on performance in my applications. When I see a picture like th
 
 ### 📊 Some stats about me:
 
+[![Bartosz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bartek532&theme=algolia)]
+
 <img align="left" alt="Bartosz's stats" src="https://github-readme-stats.vercel.app/api?username=Bartek532&show_icons=true&theme=algolia" />
 
 <img align="left" alt="Bartosz's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek532&layout=compact&hide=html&theme=algolia" />
+
+<img align="left" alt="Bartosz's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Bartek532&theme=algolia" />
 
