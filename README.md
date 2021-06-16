@@ -78,6 +78,8 @@ I'm very focused on performance in my applications. When I see a picture like th
 
 ### 📊 Some stats about me:
 
+![](https://komarev.com/ghpvc/?username=Bartek532&color=brightgreen)
+
 <img align="left" alt="Bartosz's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Bartek532&theme=algolia" />
 
 <img align="left" alt="Bartosz's stats" src="https://github-readme-stats.vercel.app/api?username=Bartek532&show_icons=true&theme=algolia" />
