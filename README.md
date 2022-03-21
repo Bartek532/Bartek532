@@ -79,6 +79,7 @@ I'm very focused on performance in my applications. When I see a picture like th
 ## Latest articles 📜
 
 <!-- ZAGRODZKI-ME:START -->
+- [10 UI/UX tips that you should know - forms](https://zagrodzki.me/blog/10-ui-ux-tips-that-you-should-know-forms)
 - [Using clipboard in JavaScript](https://zagrodzki.me/blog/using-clipboard-in-js)
 - [How I built my personal website?](https://zagrodzki.me/blog/how-i-built-my-personal-website)
 <!-- ZAGRODZKI-ME:END -->
