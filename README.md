@@ -79,9 +79,9 @@ I'm very focused on performance in my applications. When I see a picture like th
 ## Latest articles 📜
 
 <!-- ZAGRODZKI-ME:START -->
+- [Do you know all input types?](https://zagrodzki.me/blog/do-you-know-all-input-types)
 - [reMarkable 2 - what is it and why you should buy it?](https://zagrodzki.me/blog/remarkable-2-what-is-it-and-why-you-should-buy-it)
 - [Why you SHOULD use floats in your projects](https://zagrodzki.me/blog/why-you-should-use-floats-in-your-projects)
 - [10 UI/UX tips that you should know - forms](https://zagrodzki.me/blog/10-ui-ux-tips-that-you-should-know-forms)
 - [Using clipboard in JavaScript](https://zagrodzki.me/blog/using-clipboard-in-js)
-- [How I built my personal website?](https://zagrodzki.me/blog/how-i-built-my-personal-website)
 <!-- ZAGRODZKI-ME:END -->
