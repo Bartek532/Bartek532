@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Bartek532&color=brightgreen)
 ![](https://img.shields.io/badge/dynamic/json?label=%E2%AD%90%20Total%20stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FBartek532)
 
-I'm Bartosz Zagrodzki, front-end developer, blogger, freelancer, technologies enthusiast. I&apos;m in love with React and TypeScript ❤️ Constantly learning and discovering new stuff 📖
+I'm Bartosz Zagrodzki, full-stack developer, blogger, freelancer, technologies enthusiast. I&apos;m in love with React and TypeScript ❤️ Constantly learning and discovering new stuff 📖
 
 [![LinkedIn Badge](https://img.shields.io/badge/-zagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zagrodzki/)
 [![Mail Badge](https://img.shields.io/badge/-bartosz@zagrodzki.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bartosz@zagrodzki.me)
@@ -18,7 +18,7 @@ I'm Bartosz Zagrodzki, front-end developer, blogger, freelancer, technologies en
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com)
 
-[<img align="left" alt="Next.js" width="26px" src="https://i.ibb.co/Qnrf4Qn/Frame-26.png" />](https://nextjs.org)
+[<img align="left" alt="Next.js" width="26px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />](https://nextjs.org)
 
 [<img align="left" alt="Gatsby" width="26px" src="https://www.gatsbytutorials.com/static/favicon-4a9773549091c227cd2eb82ccd9c5e3a.png" />](https://www.gatsbyjs.com)
 
@@ -34,7 +34,9 @@ I'm Bartosz Zagrodzki, front-end developer, blogger, freelancer, technologies en
 
 [<img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />](https://firebase.google.com)
 
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com)
+[<img align="left" alt="Nest.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />](https://expressjs.com)
+
+[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://nestjs.com)
 
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org)
 
