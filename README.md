@@ -72,12 +72,6 @@ I'm Bartosz Zagrodzki, full-stack developer, blogger, freelancer, technologies e
 <br />
 <br />
 
-## Performance 💨
-
-I'm very focused on performance in my applications. When I see a picture like this, I can say: "good job!" 😁
-
-<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" />
-
 ## Latest articles 📜
 
 <!-- ZAGRODZKI-ME:START -->
@@ -87,3 +81,9 @@ I'm very focused on performance in my applications. When I see a picture like th
 - [Why you SHOULD use floats in your projects](https://zagrodzki.me/blog/why-you-should-use-floats-in-your-projects)
 - [10 UI/UX tips that you should know - forms](https://zagrodzki.me/blog/10-ui-ux-tips-that-you-should-know-forms)
 <!-- ZAGRODZKI-ME:END -->
+
+## Performance 💨
+
+I'm very focused on performance in my applications. When I see a picture like this, I can say: "good job!" 😁
+
+<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" />
