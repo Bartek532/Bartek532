@@ -69,6 +69,6 @@ Never stop learning and discovering new stuff 📖
 
 ## Performance 💨
 
-I'm very focused on performance in my applications. When I see a picture like this, I can say: "good job!" 😁
+Bad performance = bad experience. That's why I'm always forcing to have a result like this 😁
 
 <img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" />
