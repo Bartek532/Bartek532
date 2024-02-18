@@ -18,6 +18,8 @@ Never stop learning and discovering new stuff 📖
 
 [<img align="left" alt="Next.js" width="26px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />](https://nextjs.org)
 
+[<img align="left" alt="Expo" width="26px" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" />](https://expo.dev/)
+
 [<img align="left" alt="Tailwind" width="26px" src="https://embed.zenn.studio/api/optimize-og-image/6bbc1e398fe252723673/https%3A%2F%2Fbradlc.gallerycdn.vsassets.io%2Fextensions%2Fbradlc%2Fvscode-tailwindcss%2F0.11.40%2F1706490691013%2FMicrosoft.VisualStudio.Services.Icons.Default" />](https://tailwindcss.com/)
 
 [<img align="left" alt="Framer motion" width="26px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />](https://www.framer.com/motion/)
@@ -47,8 +49,6 @@ Never stop learning and discovering new stuff 📖
 [<img align="left" alt="MySQL" width="26px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />](https://www.mysql.com)
 
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com)
-
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />](https://github.com)
 
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />](https://www.mongodb.com)
 
