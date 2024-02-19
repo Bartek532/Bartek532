@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Bartek532&color=brightgreen)
 ![](https://img.shields.io/badge/dynamic/json?label=%E2%AD%90%20Total%20stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FBartek532)
 
-I'm a software engineer building products to help people live better lives ❤️
+I'm a software engineer building products to help people lead better lives ❤️
 Constantly learning and discovering new stuff 📖
 
 [![Twitter Badge](https://img.shields.io/badge/-@bzagrodzki-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/bzagrodzki)
