@@ -10,6 +10,28 @@ I'm a software engineer building products to help people lead better lives 🎯 
 [![LinkedIn Badge](https://img.shields.io/badge/-zagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zagrodzki/)
 [![Facebook Badge](https://img.shields.io/badge/-@bzagrodzki-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/bzagrodzki)
 
+## Projects 🚀
+
+💼 [zagrodzki.me](https://zagrodzki.me) - my personal blog and portfolio, where I share my knowledge and work.
+
+🔄 [RSSmarkable](https://rssmarkable.vercel.app) - fully open-source app designed to sync articles and feeds to offline devices.
+
+🐻 [Teddy](https://zagrodzki.me/work/teddy) - custom AI assistant built as desktop app, which saves my countless hours during the day.
+
+🌭 [pozywka.pl](https://pozywka.pl) - scalable blog for food journalist, focused on performance and user experience.
+
+
+## Latest articles 📜
+
+<!-- ZAGRODZKI-ME:START -->
+- [Learning programming - easy to start, hard to master](https://zagrodzki.me/blog/learning-programming)
+- [Do you know all input types?](https://zagrodzki.me/blog/do-you-know-all-input-types)
+- [reMarkable 2 - what is it and why you should buy it?](https://zagrodzki.me/blog/remarkable-2-what-is-it-and-why-you-should-buy-it)
+- [Why you SHOULD use floats in your projects](https://zagrodzki.me/blog/why-you-should-use-floats-in-your-projects)
+- [10 UI/UX tips that you should know - forms](https://zagrodzki.me/blog/10-ui-ux-tips-that-you-should-know-forms)
+<!-- ZAGRODZKI-ME:END -->
+
+
 ## Technologies 🧰
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](https://developer.mozilla.org/docs/HTML/HTML5) [![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://sass-lang.com) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org) [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](https://vuejs.org) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org)
@@ -50,22 +72,3 @@ I'm a software engineer building products to help people lead better lives 🎯 
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com)
 
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />](https://www.mongodb.com)
-
-<br />
-<br />
-
-## Latest articles 📜
-
-<!-- ZAGRODZKI-ME:START -->
-- [Learning programming - easy to start, hard to master](https://zagrodzki.me/blog/learning-programming)
-- [Do you know all input types?](https://zagrodzki.me/blog/do-you-know-all-input-types)
-- [reMarkable 2 - what is it and why you should buy it?](https://zagrodzki.me/blog/remarkable-2-what-is-it-and-why-you-should-buy-it)
-- [Why you SHOULD use floats in your projects](https://zagrodzki.me/blog/why-you-should-use-floats-in-your-projects)
-- [10 UI/UX tips that you should know - forms](https://zagrodzki.me/blog/10-ui-ux-tips-that-you-should-know-forms)
-<!-- ZAGRODZKI-ME:END -->
-
-## Performance 💨
-
-Bad performance = bad experience. That's why I'm always forcing to have a result like this 😁
-
-<img src="https://i.ibb.co/DQVrMX1/todo.png" alt="performance" />
