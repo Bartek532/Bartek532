@@ -14,9 +14,9 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 💼 [zagrodzki.me](https://zagrodzki.me) - my personal blog and portfolio, where I share my knowledge and work.
 
-🔄 [RSSmarkable](https://rssmarkable.vercel.app) - fully open-source app designed to sync articles and feeds to offline devices.
+🔄 [SyncReads](https://syncreads.com) - seamlessly sync articles and feeds for distraction-free reading, customized to your preferences, anytime, anywhere.
 
-🐻 [Teddy](https://zagrodzki.me/work/teddy) - custom AI assistant built as desktop app, which saves my countless hours during the day.
+🐻 [Teddy](https://zagrodzki.me/work/teddy) - custom AI assistant built as a desktop app, which saves me countless hours during the day.
 
 🌭 [pozywka.pl](https://pozywka.pl) - scalable blog for food journalist, focused on performance and user experience.
 
