@@ -16,7 +16,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 🔄 [SyncReads](https://syncreads.com) - sync favorite content for distraction-free reading, save time and replace multiple apps with SyncReads. Anytime, anywhere.
 
-🐻 [Teddy](https://zagrodzki.me/work/teddy) - custom AI assistant designed to enhance daily workflow.
+🐻 [Teddy](https://zagrodzki.me/work/teddy) - personalizable AI assistant designed to enhance daily workflow.
 
 🌭 [pozywka.pl](https://pozywka.pl) - scalable blog for food journalist, focused on performance and user experience.
 
