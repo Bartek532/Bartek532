@@ -14,11 +14,13 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 💼 [zagrodzki.me](https://zagrodzki.me) - my personal blog and portfolio, where I share my knowledge and work.
 
-🔄 [SyncReads](https://syncreads.com) - seamlessly sync articles and feeds for distraction-free reading, customized to your preferences, anytime, anywhere.
+🔄 [SyncReads](https://syncreads.com) - sync favorite content for distraction-free reading, save time and replace multiple apps with SyncReads. Anytime, anywhere.
 
-🐻 [Teddy](https://zagrodzki.me/work/teddy) - custom AI assistant built as a desktop app, which saves me countless hours during the day.
+🐻 [Teddy](https://zagrodzki.me/work/teddy) - custom AI assistant designed to enhance daily workflow.
 
 🌭 [pozywka.pl](https://pozywka.pl) - scalable blog for food journalist, focused on performance and user experience.
+
+🐻 [Autostrada Wielkopolska](https://www.autostrada-a2.pl/) - custom solution for second longest highway in Poland.
 
 
 ## Latest articles 📜
