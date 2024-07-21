@@ -12,7 +12,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 ## Projects 🚀
 
-💼 [zagrodzki.me](https://zagrodzki.me) - my personal blog and portfolio, where I share my knowledge and work.
+💼 [zagrodzki.me](https://zagrodzki.me) - my personal blog and portfolio, where I share my knowledge and work.  
 
 🔄 [SyncReads](https://syncreads.com) - sync favorite content for distraction-free reading, save time and replace multiple apps with SyncReads. Anytime, anywhere.
 
@@ -20,7 +20,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 🌭 [pozywka.pl](https://pozywka.pl) - scalable blog for food journalist, focused on performance and user experience.
 
-🐻 [Autostrada Wielkopolska](https://www.autostrada-a2.pl/) - custom solution for second longest highway in Poland.
+🚗 [Autostrada Wielkopolska](https://www.autostrada-a2.pl/) - custom solution for second longest highway in Poland.
 
 
 ## Latest articles 📜
