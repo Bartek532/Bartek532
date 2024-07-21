@@ -14,7 +14,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 💼 [zagrodzki.me](https://zagrodzki.me) - my personal blog and portfolio, where I share my knowledge and work.  
 
-🔄 [SyncReads](https://syncreads.com) - sync favorite content for distraction-free reading, save time and replace multiple apps with SyncReads. Anytime, anywhere.
+🔄 [SyncReads](https://syncreads.com) - sync favorite content for distraction-free reading, save time and replace multiple apps. Anytime, anywhere.
 
 🐻 [Teddy](https://zagrodzki.me/work/teddy) - personalizable AI assistant designed to enhance daily workflow.
 
