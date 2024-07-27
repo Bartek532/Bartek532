@@ -26,11 +26,11 @@ I'm a software engineer building products to help people lead better lives 🎯 
 ## Latest articles 📜
 
 <!-- ZAGRODZKI-ME:START -->
-- [Learning programming - easy to start, hard to master](https://zagrodzki.me/blog/learning-programming)
-- [Do you know all input types?](https://zagrodzki.me/blog/do-you-know-all-input-types)
-- [reMarkable 2 - what is it and why you should buy it?](https://zagrodzki.me/blog/remarkable-2-what-is-it-and-why-you-should-buy-it)
-- [Why you SHOULD use floats in your projects](https://zagrodzki.me/blog/why-you-should-use-floats-in-your-projects)
-- [10 UI/UX tips that you should know - forms](https://zagrodzki.me/blog/10-ui-ux-tips-that-you-should-know-forms)
+- [Learning programming - easy to start, hard to master](https://www.zagrodzki.me/blog/learning-programming)
+- [Do you know all input types?](https://www.zagrodzki.me/blog/do-you-know-all-input-types)
+- [reMarkable 2 - what is it and why you should buy it?](https://www.zagrodzki.me/blog/remarkable-2-what-is-it-and-why-you-should-buy-it)
+- [Why you SHOULD use floats in your projects](https://www.zagrodzki.me/blog/why-you-should-use-floats-in-your-projects)
+- [10 UI/UX tips that you should know - forms](https://www.zagrodzki.me/blog/10-ui-ux-tips-that-you-should-know-forms)
 <!-- ZAGRODZKI-ME:END -->
 
 
