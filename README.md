@@ -5,7 +5,7 @@
 
 I'm a software engineer building products to help people lead better lives 🎯 In love with creative solutions - constantly learning and discovering new stuff 📖
 
-[![Twitter Badge](https://img.shields.io/badge/-@bzagrodzki-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/bzagrodzki)
+[![Twitter Badge](https://img.shields.io/badge/-@bzagrodzki-3b3b3b?style=flat&labelColor=3b3b3b&logo=x&logoColor=white)](https://twitter.com/bzagrodzki)
 [![Mail Badge](https://img.shields.io/badge/-bartosz@zagrodzki.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bartosz@zagrodzki.me)
 [![LinkedIn Badge](https://img.shields.io/badge/-zagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zagrodzki/)
 [![Facebook Badge](https://img.shields.io/badge/-@bzagrodzki-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/bzagrodzki)
@@ -41,7 +41,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](https://developer.mozilla.org/docs/HTML/HTML5) [![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://sass-lang.com) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org) [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](https://vuejs.org) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org)
 
 
-[<img align="left" alt="Next.js" width="26px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />](https://nextjs.org)
+[<img align="left" alt="Next.js" width="26px" src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" />](https://nextjs.org)
 
 [<img align="left" alt="Expo" width="26px" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" />](https://expo.dev/)
 
@@ -63,7 +63,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 [<img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />](https://firebase.google.com)
 
-[<img align="left" alt="Supabase" width="26px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />](https://supabase.com/)
+[<img align="left" alt="Supabase" width="26px" src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" />](https://supabase.com/)
 
 [<img align="left" alt="Nest.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />](https://expressjs.com)
 
