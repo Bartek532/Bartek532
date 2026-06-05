@@ -1,14 +1,13 @@
 # Hi, I'm Bart 👋 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> -->
 
-![](https://komarev.com/ghpvc/?username=Bartek532&color=brightgreen)
-![](https://img.shields.io/badge/dynamic/json?label=%E2%AD%90%20Total%20stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Bartek532)
+![Profile views](https://komarev.com/ghpvc/?username=Bartek532&color=brightgreen)
+![Total stars](https://img.shields.io/badge/dynamic/json?label=%E2%AD%90%20Total%20stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Bartek532&cacheSeconds=1)
 
 I'm a software engineer building products to help people lead better lives 🎯 In love with creative solutions - constantly learning and discovering new stuff 📖
 
 [![Twitter Badge](https://img.shields.io/badge/-@bzagrodzki-3b3b3b?style=flat&labelColor=3b3b3b&logo=x&logoColor=white)](https://twitter.com/bzagrodzki)
 [![Mail Badge](https://img.shields.io/badge/-bartosz@zagrodzki.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bartosz@zagrodzki.me)
-[![LinkedIn Badge](https://img.shields.io/badge/-zagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zagrodzki/)
-[![Facebook Badge](https://img.shields.io/badge/-@bzagrodzki-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/bzagrodzki)
+[![LinkedIn](https://img.shields.io/badge/-zagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUySDE3Ljg5M3YtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTYuOTc1IDIwLjQ1MkgzLjU1NVY5aDMuNDJ2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/zagrodzki/)
 
 ## Projects 🚀
 
@@ -65,7 +64,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 
 [<img align="left" alt="Supabase" width="26px" src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" />](https://supabase.com/)
 
-[<img align="left" alt="Nest.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />](https://expressjs.com)
+[<img align="left" alt="Nest.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1280px-NestJS.svg.png" />](https://nestjs.com/)
 
 [<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://nestjs.com)
 
