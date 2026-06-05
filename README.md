@@ -9,7 +9,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 [![Mail Badge](https://img.shields.io/badge/-bartosz@zagrodzki.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bartosz@zagrodzki.me)
 [![LinkedIn](https://img.shields.io/badge/-zagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUySDE3Ljg5M3YtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTYuOTc1IDIwLjQ1MkgzLjU1NVY5aDMuNDJ2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/zagrodzki/)
 
-## Projects 🚀
+## Projects
 
 🚀 [TurboStarter](turbostarter.dev) - ship your startup everywhere. In minutes.
 
@@ -24,7 +24,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 🚗 [Autostrada Wielkopolska](https://www.autostrada-a2.pl/) - custom solution for the second longest highway in Poland.
 
 
-## Latest articles 📜
+## Latest articles
 
 <!-- ZAGRODZKI-ME:START -->
 - [Learning programming - easy to start, hard to master](https://www.zagrodzki.me/blog/learning-programming)
@@ -35,7 +35,7 @@ I'm a software engineer building products to help people lead better lives 🎯 
 <!-- ZAGRODZKI-ME:END -->
 
 
-## Technologies 🧰
+## Technologies
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](https://developer.mozilla.org/docs/HTML/HTML5) [![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://sass-lang.com) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org) [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](https://vuejs.org) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org)
 
