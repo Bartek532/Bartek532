@@ -1,7 +1,7 @@
 # Hi, I'm Bart 👋 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=Bartek532&color=brightgreen)
-![Total stars](https://img.shields.io/badge/dynamic/json?label=%E2%AD%90%20Total%20stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Bartek532&cacheSeconds=1)
+[![Total stars](https://img.shields.io/badge/dynamic/json?label=%E2%AD%90%20Total%20stars&query=%24.stars&url=https://zagrodzki.me/api/github-stars)](https://github.com/turbostarter)
 
 I'm a software engineer building products to help people lead better lives 🎯 In love with creative solutions - constantly learning and discovering new stuff 📖
 
